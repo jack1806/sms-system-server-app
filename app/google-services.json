@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "502791911837",
+    "firebase_url": "https://sms-system-tarp.firebaseio.com",
+    "project_id": "sms-system-tarp",
+    "storage_bucket": "sms-system-tarp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502791911837:android:52f170f9668e2806",
+        "android_client_info": {
+          "package_name": "com.example.leaverequest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502791911837-428marp1i20u65pkeagj7b3hmsr11dhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDj7VFtOCZEAvxR6EJIR73CDummQgweNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502791911837-428marp1i20u65pkeagj7b3hmsr11dhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
